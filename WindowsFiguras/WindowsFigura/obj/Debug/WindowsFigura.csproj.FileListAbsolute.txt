@@ -1,0 +1,10 @@
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\bin\Debug\WindowsFigura.exe.config
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\bin\Debug\WindowsFigura.exe
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\bin\Debug\WindowsFigura.pdb
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\obj\Debug\WindowsFigura.csprojAssemblyReference.cache
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\obj\Debug\WindowsFigura.Form1.resources
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\obj\Debug\WindowsFigura.Properties.Resources.resources
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\obj\Debug\WindowsFigura.csproj.GenerateResource.cache
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\obj\Debug\WindowsFigura.csproj.CoreCompileInputs.cache
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\obj\Debug\WindowsFigura.exe
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\WindowsFiguras\WindowsFigura\obj\Debug\WindowsFigura.pdb

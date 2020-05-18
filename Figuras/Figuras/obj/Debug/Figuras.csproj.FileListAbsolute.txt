@@ -1,0 +1,10 @@
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\obj\Debug\Figuras.csprojAssemblyReference.cache
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\obj\Debug\Figuras.Form1.resources
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\ROGELIO\Documents\GitHub\Clases-VS\Figuras\Figuras\obj\Debug\Figuras.pdb
