@@ -34,7 +34,7 @@ namespace WindowsFigura
             this.alto = alto;
             _color = color;
             pluma = new Pen(Color.Black);
-            brocha = new SolidBrush(_color);
+            brocha = new SolidBrush(Color.White);
 
         }
 

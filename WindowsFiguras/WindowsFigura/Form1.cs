@@ -27,7 +27,6 @@ namespace WindowsFigura
             InitializeComponent();
             figuras = new List<Figura>();
         }
-
         Figura GetFigura(int x, int y)
         {
             foreach(Figura f in figuras)
@@ -112,6 +111,7 @@ namespace WindowsFigura
             }
 
         }
+
         private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
             if ((estado == EstadoActual.rectangulo || estado == EstadoActual.elipse) && dibujando == false )

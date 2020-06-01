@@ -32,6 +32,7 @@
             this.Elipse = new System.Windows.Forms.Button();
             this.Rectangulo = new System.Windows.Forms.Button();
             this.Seleccion = new System.Windows.Forms.Button();
+            this.redColor = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -44,7 +45,7 @@
             // 
             // Elipse
             // 
-            this.Elipse.Location = new System.Drawing.Point(619, 3);
+            this.Elipse.Location = new System.Drawing.Point(420, 3);
             this.Elipse.Name = "Elipse";
             this.Elipse.Size = new System.Drawing.Size(75, 23);
             this.Elipse.TabIndex = 1;
@@ -54,7 +55,7 @@
             // 
             // Rectangulo
             // 
-            this.Rectangulo.Location = new System.Drawing.Point(700, 3);
+            this.Rectangulo.Location = new System.Drawing.Point(501, 3);
             this.Rectangulo.Name = "Rectangulo";
             this.Rectangulo.Size = new System.Drawing.Size(75, 23);
             this.Rectangulo.TabIndex = 2;
@@ -64,7 +65,7 @@
             // 
             // Seleccion
             // 
-            this.Seleccion.Location = new System.Drawing.Point(538, 3);
+            this.Seleccion.Location = new System.Drawing.Point(339, 3);
             this.Seleccion.Name = "Seleccion";
             this.Seleccion.Size = new System.Drawing.Size(75, 23);
             this.Seleccion.TabIndex = 0;
@@ -72,11 +73,22 @@
             this.Seleccion.UseVisualStyleBackColor = true;
             this.Seleccion.Click += new System.EventHandler(this.seleccion_Click);
             // 
+            // redColor
+            // 
+            this.redColor.Location = new System.Drawing.Point(12, 3);
+            this.redColor.Name = "redColor";
+            this.redColor.Size = new System.Drawing.Size(75, 23);
+            this.redColor.TabIndex = 3;
+            this.redColor.Text = "Red";
+            this.redColor.UseVisualStyleBackColor = true;
+            this.redColor.Click += new System.EventHandler(this.red_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.redColor);
             this.Controls.Add(this.Seleccion);
             this.Controls.Add(this.Rectangulo);
             this.Controls.Add(this.Elipse);
@@ -87,7 +99,6 @@
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseClick);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
-            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseUp);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -101,6 +112,7 @@
         private System.Windows.Forms.Button Rectangulo;
         private System.Windows.Forms.Button Seleccion;
         private System.Windows.Forms.Button Red;
+        private System.Windows.Forms.Button redColor;
     }
 }
 
